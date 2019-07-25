@@ -99,11 +99,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #ffffff;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #c7267c 15%, #4271f2 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #c7267c 15%, #4271f2 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #c7267c 15%, #4271f2 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #c7267c 15%, #4271f2 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3121,7 +3121,7 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 75%;
+					max-width: 100%;
 				}
 
 		@media screen and (max-width: 1280px) {
